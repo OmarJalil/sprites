@@ -1,3 +1,6 @@
+Copyright (c) © 2024 Jalil Fierro. Pokémon and Pokémon character names are trademarks of Nintendo.
+
+All rights reserved.
 All image contents within are Copyright The Pokémon Company.
 
 This repository is distributed under CC0 1.0 Universal
